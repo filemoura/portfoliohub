@@ -13,10 +13,7 @@ Este repositório contém os arquivos e registros do projeto de implantação do
 
 ## Estrutura
 - /documentos: PDFs e relatórios do projeto.
-- /slides: Apresentações e materiais de vídeo.
-- /scripts: Exemplos de uso do Gemini e integrações.
-
-## Autor
-[Seu Nome] – Bootcamp I (2025)
+- /slides:https://1drv.ms/p/c/9f39f5405033841d/EQutLCw4FSJAhIVKNc4jOYkBM4BMWjBFjRXe24RTXMszcQ?e=79gONe
+- /video: https://youtu.be/aHPOCTqhIQ0     
 
 
