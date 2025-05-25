@@ -13,7 +13,7 @@ Este repositório contém os arquivos e registros do projeto de implantação do
 
 ## Estrutura
 - /documentos: PDFs e relatórios do projeto.
-- /slides:
+- /slides: https://1drv.ms/p/c/9f39f5405033841d/EQutLCw4FSJAhIVKNc4jOYkBM4BMWjBFjRXe24RTXMszcQ?e=oS5Daq
 - /video: https://youtu.be/aHPOCTqhIQ0     
 
 
